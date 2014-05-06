@@ -1,7 +1,7 @@
 DocDesignPatterns
 =================
 
-Inspired by Nina Vyedin's talk at WriteTheDocs Portland 2014, this is a repo for sharing design patterns for documentation.
+Inspired by Nina Vyedin's [talk](http://andrewspittle.com/2014/05/05/write-the-docs-nina-vyedin-hacking-the-english-language/)  at WriteTheDocs Portland 2014, this is a repo for sharing design patterns for documentation.
 
 ![](https://i.cloudup.com/4UEpHeeF26-1200x1200.jpeg)
 
