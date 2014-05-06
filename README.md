@@ -12,7 +12,7 @@ Design Paterns for Doc Writing
 |---|---|---|
 |Tell a Story|Follow a linear pattern|Walkthrough|
 |Paint a Picture|Snapshot, describes everything on the screen|Introducing a feature or tool, blog post|
-|Reference|Introduce one at a time and describe|Troubleshooting doc|
+|Reference|Introduce one at a time and describe|Reference doc|
 |Theme and Situations|Introduce one at a time and describe|Introduction to a concept|
 |Drill Down|Organized by hierarchy, general to specific|X-Plat -> platform-specific| 
 |Level Up|Start simple and reveal information as you go along (information hiding)|Getting Started docs|
